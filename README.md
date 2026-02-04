@@ -1,4 +1,4 @@
-# 🌱 Sistema de recomendación de cultivos basado en Machine Learning 🌱
+# 🌾 Sistema de recomendación de cultivos basado en Machine Learning 
 
 Este proyecto desarrolla un **sistema de recomendación de cultivos** utilizando técnicas de **machine learning supervisado**, a partir de datos del suelo y variables ambientales.
 
