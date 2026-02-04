@@ -117,10 +117,10 @@ El desempeño consistente en todas las clases indica un **modelo robusto para re
 
 - **Python**
 - **pandas, numpy**
-- **matplotlib, seaborn**
+- **matplotlib, `seaborn**`
 - **scikit-learn**
 - **LightGBM**
-- **SciPy**
+- `**SciPy**`
 
 ---
 
